@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(ex01 mainex1.cpp)
 add_executable(ex02 mainex2.cpp)
+add_executable(ex03 mainex3.cpp)
